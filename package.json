@@ -1,7 +1,7 @@
 {
   "name": "4.weather-app",
   "version": "1.0.0",
-  "homepage": "https://developerridoy.github.io/weather-app/",
+  "homepage": "https://developerridoy.github.io/weather-app",
   "description": "a simple weather app",
   "main": "app.js",
   "scripts": {
