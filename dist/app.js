@@ -74,7 +74,7 @@ function searchCityFunc(e) {
     }) 
     .catch(err => {
         ui.showAlert('wrong city information!', 'alert alert-danger');
-        console.log('nani');
+        console.log(err)
     });
   
      
