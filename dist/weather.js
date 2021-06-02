@@ -2,7 +2,7 @@ class Weather {
 
     constructor() {
         this.apiKey = '7U7A3GzeEkE9bwFOKDkn3LM0SEFMfGXE';
-        this.base = 'http://dataservice.accuweather.com';
+        this.base = 'https://dataservice.accuweather.com';
     }
 
     async getCityKey(city){
