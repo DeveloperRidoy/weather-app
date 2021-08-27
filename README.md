@@ -1,6 +1,7 @@
 # weather-app
 
-##hosted website link: 
+simple weather web-app that tells you the weather!
 
-[![weather](https://developer.stackblitz.com/img/open_in_stackblitz.svg))]
-(https://DeveloperRidoy.github.io/weather-app)
+## hosted website link: 
+
+[Weather-app](https://DeveloperRidoy.github.io/weather-app)
